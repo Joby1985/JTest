@@ -17,7 +17,10 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import com.naviance.legacy.TestContextConfig;
 import com.naviance.legacy.domain.school.HighSchoolCollegeVisit;
-
+/*
+Made modifications in Master copy.
+See how to do rebase....
+*/
 /**
  * Tests for HighSchoolCollegeVisitRepository.
  * @author joby.job
