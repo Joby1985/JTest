@@ -22,6 +22,10 @@ import com.naviance.legacy.domain.school.HighSchoolCollegeVisit;
  * Tests for HighSchoolCollegeVisitRepository.
  * @author joby.job
  */
+
+/*
+making modifications in branch opy
+*/
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes = { TestContextConfig.class })
 @ActiveProfiles(profiles = "intTest")
